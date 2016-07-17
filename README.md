@@ -1,3 +1,3 @@
 # DataCamp
 DataCamp
-Code in for solving the tasks
+Code for solving the tasks
